@@ -1,0 +1,11 @@
+.form {
+    padding: 20px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    width: 200px;
+}
+
+.container {
+    background-color: blue;
+}

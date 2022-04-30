@@ -1,0 +1,41 @@
+.container {
+    margin-bottom: 1rem;
+}
+
+.title {
+    letter-spacing: -0.025em;
+    font-weight: 800;
+    color: var(--text-black);
+    font-size: 3rem;
+
+}
+
+.title1 {
+    display: block;
+    color: var(--text-purple);
+}
+
+.title2 {
+    color: darkblue;
+}
+
+.subTitle {
+    margin-top: 0.75rem;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    color: var(--text-purple);
+}
+
+.button {
+    background-color: var(--text-purple-dark);
+    cursor: pointer;
+    color: white;
+    outline: 0;
+    border: 0px;
+    line-height: 2;
+    padding: 1rem 2rem;
+}
+
+.button:hover {
+    background-color: var(--text-purple-dark);
+}
